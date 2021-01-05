@@ -2,7 +2,7 @@ function restartQuiz() {
     window.location.href="index.html";
 }
 function pageAdvance1() {
-    window.location.href="index.html";
+    window.location.href="question1.html";
 }
 function pageAdvance2() {
     window.location.href="question2.html";
